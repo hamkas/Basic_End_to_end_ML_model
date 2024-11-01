@@ -1,5 +1,5 @@
 # Building Basic End to end ML model
-The project is to build a ML model to classify the stress level according to different features.
+This project is to build a ML model to classify the stress level according to different features.
 
 # Dataset
 The dataset sourced from Kaggle.

@@ -1,0 +1,3 @@
+Version:
+python 3.10.12
+sklearn 1.5.2
